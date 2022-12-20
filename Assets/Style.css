@@ -1,0 +1,25 @@
+ul{
+    list-style: none;
+}
+li{
+    width: 200px;
+    height: 30px;
+    background-color: skyblue;
+    color: white;
+    margin-bottom: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 24px;
+    text-align: left;
+    padding: 7px;
+    cursor: pointer;
+}
+
+.score {
+    display: flex;
+    padding: 50px;
+    margin:0px 400px 0px 400px;
+    justify-content: left;
+    align-items: left;
+    
+}
